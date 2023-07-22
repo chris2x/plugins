@@ -1,0 +1,16 @@
+&x_label_style=8,#1a1a1a,2,#e6f0ff&
+&x_axis_steps=1&
+&y_ticks=5,10,5&
+&x_labels=05-25,05-26,05-27,05-28,05-29,05-30,05-31,06-01,06-02,06-03,06-04,06-05,06-06,06-07,06-08&
+&y_min=0&
+&y_max=130&
+&bg_colour=#f9f9f9&
+&x_axis_colour=#1a1a1a&
+&x_grid_colour=#e6f0ff&
+&y_axis_colour=#1a1a1a&
+&y_grid_colour=#e6f0ff&
+&inner_background=#ffffff,#e2e2e2,90&
+&tool_tip=%23key%23%3A+%23val%23&
+&line_hollow=3,14568a,Views+per+day,12,4&
+&values=87,98,106,90,126,48,57,92,96,105,113,70,49,44,69&
+&links=javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D05-25%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D05-26%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D05-27%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D05-28%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D05-29%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D05-30%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D05-31%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-01%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-02%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-03%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-04%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-05%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-06%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-07%27%29%3B,javascript%3Aofc_toplink%28%27%2Fwp-admin%2Findex.php%3Fpage%3Destats%26blog%3D6019810%26back_to_ext%26category%3D06-08%27%29%3B&

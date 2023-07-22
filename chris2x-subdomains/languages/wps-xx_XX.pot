@@ -1,0 +1,411 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-subdomains-revisited\n"
+"POT-Creation-Date: 2013-02-26 06:34:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: plugin/actions.php:125
+msgid "WordPress Subdomains"
+msgstr ""
+
+#: plugin/actions.php:140
+msgid "Make the Page as Subdomain"
+msgstr ""
+
+#: plugin/actions.php:142
+msgid "Tied to"
+msgstr ""
+
+#: plugin/actions.php:143
+msgid "Select Category"
+msgstr ""
+
+#: plugin/actions.php:145 plugin/admin.php:276 plugin/admin.php:549
+msgid "Themes"
+msgstr ""
+
+#: plugin/actions.php:150 plugin/admin.php:524
+msgid "Default"
+msgstr ""
+
+#: plugin/actions.php:158
+msgid "Go to"
+msgstr ""
+
+#: plugin/actions.php:158
+msgid "Subdomains Settings"
+msgstr ""
+
+#: plugin/admin.php:18
+msgid "Yes"
+msgstr ""
+
+#: plugin/admin.php:18
+msgid "No"
+msgstr ""
+
+#: plugin/admin.php:20
+msgid "None"
+msgstr ""
+
+#: plugin/admin.php:83
+msgid "Main Domain"
+msgstr ""
+
+#: plugin/admin.php:90
+msgid "Category Subdomains"
+msgstr ""
+
+#: plugin/admin.php:97
+msgid "Page Subdomains"
+msgstr ""
+
+#: plugin/admin.php:104
+msgid "Author Subdomains"
+msgstr ""
+
+#: plugin/admin.php:112
+msgid "More..."
+msgstr ""
+
+#: plugin/admin.php:118
+msgid "General Settings"
+msgstr ""
+
+#: plugin/admin.php:121
+msgid "Custom Subdomain Themes"
+msgstr ""
+
+#: plugin/admin.php:134
+msgid "Redirect Old URLs"
+msgstr ""
+
+#: plugin/admin.php:146
+msgid "Redirect Posts Canonical URL"
+msgstr ""
+
+#: plugin/admin.php:158
+msgid "Keep Pages on Subdomain"
+msgstr ""
+
+#: plugin/admin.php:170
+msgid "Subdomain Roots as Indexes"
+msgstr ""
+
+#: plugin/admin.php:184
+msgid "Content Filters"
+msgstr ""
+
+#: plugin/admin.php:189
+msgid "Archives"
+msgstr ""
+
+#: plugin/admin.php:198 plugin/functions.php:167
+msgid "Pages"
+msgstr ""
+
+#: plugin/admin.php:207
+msgid "Tags"
+msgstr ""
+
+#: plugin/admin.php:221
+msgid "Save Changes"
+msgstr ""
+
+#: plugin/admin.php:264 plugin/admin.php:354
+msgid "Active Subdomains"
+msgstr ""
+
+#: plugin/admin.php:266 plugin/admin.php:290
+msgid "Make all Subdomains"
+msgstr ""
+
+#: plugin/admin.php:266
+msgid ""
+"is turned <b>ON</b> so all main categories are turned into subdomains unless "
+"specifically excluded."
+msgstr ""
+
+#: plugin/admin.php:269 plugin/admin.php:293
+msgid "Note"
+msgstr ""
+
+#: plugin/admin.php:269
+msgid "Only works for main categories"
+msgstr ""
+
+#: plugin/admin.php:274 plugin/admin.php:297 plugin/admin.php:362
+#: plugin/admin.php:383
+msgid "Category"
+msgstr ""
+
+#: plugin/admin.php:275 plugin/admin.php:298 plugin/admin.php:360
+#: plugin/admin.php:381
+msgid "Subdomain"
+msgstr ""
+
+#: plugin/admin.php:277
+msgid "Pages Filter"
+msgstr ""
+
+#: plugin/admin.php:288 plugin/admin.php:374
+msgid "Inactive Subdomains"
+msgstr ""
+
+#: plugin/admin.php:290
+msgid ""
+"is turned <b>ON</b> so all main categories are turned into subdomains unless "
+"specifically excluded as below."
+msgstr ""
+
+#: plugin/admin.php:293
+msgid "Subdomains not working for child categories"
+msgstr ""
+
+#: plugin/admin.php:359 plugin/admin.php:380
+msgid "Page"
+msgstr ""
+
+#: plugin/admin.php:361 plugin/admin.php:382
+msgid "Custom Theme"
+msgstr ""
+
+#: plugin/admin.php:402
+msgid "You are using"
+msgstr ""
+
+#: plugin/admin.php:402
+msgid "Version"
+msgstr ""
+
+#: plugin/admin.php:414
+msgid "DISABLE PLUGIN"
+msgstr ""
+
+#: plugin/admin.php:416
+msgid "ENABLE"
+msgstr ""
+
+#: plugin/admin.php:416
+msgid "DISABLE"
+msgstr ""
+
+#: plugin/admin.php:425
+msgid "History"
+msgstr ""
+
+#: plugin/admin.php:439
+msgid "Credits"
+msgstr ""
+
+#: plugin/admin.php:441
+msgid "Author"
+msgstr ""
+
+#: plugin/admin.php:442
+msgid "Commiter"
+msgstr ""
+
+#: plugin/admin.php:443 plugin/admin.php:444
+msgid "Contributor"
+msgstr ""
+
+#: plugin/admin.php:445
+msgid "Original Author"
+msgstr ""
+
+#: plugin/admin.php:451
+msgid "Copyright"
+msgstr ""
+
+#: plugin/admin.php:451
+msgid "Disclaimer"
+msgstr ""
+
+#: plugin/admin.php:456
+msgid "Thank you for using this plugin"
+msgstr ""
+
+#: plugin/admin.php:476 plugin/admin.php:551 plugin/functions.php:165
+msgid "Settings"
+msgstr ""
+
+#: plugin/admin.php:531
+msgid "Make as Subdomain"
+msgstr ""
+
+#: plugin/admin.php:533
+msgid "Must be a main category"
+msgstr ""
+
+#: plugin/admin.php:537
+msgid "Exclude as Subdomain"
+msgstr ""
+
+#: plugin/admin.php:539
+msgid ""
+"Must be a main category to exclude if you opted All Categories as Subdomains "
+"by default"
+msgstr ""
+
+#: plugin/admin.php:543 plugin/admin.php:545
+msgid "Custom Title"
+msgstr ""
+
+#: plugin/admin.php:545
+msgid "to appear in any links to this Subdomain."
+msgstr ""
+
+#: plugin/admin.php:551
+msgid "You have to activate Subdomain Themes in"
+msgstr ""
+
+#: plugin/admin.php:555
+msgid "Show Only Tied Pages"
+msgstr ""
+
+#: plugin/admin.php:557
+msgid ""
+"Select this to only filter out pages not tied to categories, page lists will "
+"only show pages tied to this category"
+msgstr ""
+
+#: plugin/functions.php:164
+msgid "Welcome"
+msgstr ""
+
+#: plugin/functions.php:166
+msgid "Categories"
+msgstr ""
+
+#: widgets/categories.php:60 widgets/sitelist.php:63
+msgid "Title:"
+msgstr ""
+
+#: widgets/categories.php:67 widgets/sitelist.php:78
+msgid "Show as dropdown"
+msgstr ""
+
+#: widgets/categories.php:72 widgets/sitelist.php:84
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/categories.php:77 widgets/sitelist.php:90
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/sitelist.php:70
+msgid "Site Home:"
+msgstr ""
+
+#: plugin/admin.php:413
+msgid "This will disable the plugin's functionality whilst allowing you to continue configuring it."
+msgstr ""
+
+#: plugin/functions.php:155
+msgid "Pair cup of coffee really helpful"
+msgstr ""
+
+#: plugin/functions.php:155
+msgid "Donate"
+msgstr ""
+
+#: plugin/admin.php:422
+msgid "This version is an updated modification of \"WP Subdomains\" by <a href=\"http://casualgenius.com\">Alex Stansfield</a> that stop supporting until version 0.6.9 that not worked for Wordpress 3.3 when I need it for a client."
+msgstr ""
+
+#: plugin/admin.php:423
+msgid "The original version is at Wordpress <a href=\"http://wordpress.org/extend/plugins/wordpress-subdomains/\">plugin's page</a>. I change the revision numbers to easier maintance and will try continue to support this plugin as much as I can."
+msgstr ""
+
+#: plugin/admin.php:424
+msgid "Donation will be much appreciated to me or original author."
+msgstr ""
+
+#: plugin/admin.php:425
+msgid "WP Subdomains originally based on the <a href=\"http://www.biggnuts.com/wordpress-subdomains-plugin/\">Subster Rejunevation</a> wordpress plugin by <a href=\"http://www.biggnuts.com/\">Dax Herrera</a>."
+msgstr ""
+
+#: plugin/admin.php:426
+msgid "Original version started as a few bug fixes but as I found more and more things to add I realised only a rewrite would enable me to make the changes I wanted for my site."
+msgstr ""
+
+#: plugin/admin.php:427
+msgid "Please <a href=\"mailto:lontongcorp@gmail.com\">contact me</a> if you want contribute or need support."
+msgstr ""
+
+#: plugin/admin.php:444
+msgid "Use of this plugin will be at your own risk. No guarantees or warranties are made, direct or implied. The creators cannot and will not be liable or held accountable for damages, direct or consequential."
+msgstr ""
+
+#: plugin/admin.php:445
+msgid "Fully comply to the GPLv2+ and MIT License, in works as is as Wordpress License. By using this application it implies agreement to these conditions."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "Activate the subdomain theme system. To set different themes for each category"
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "Edit them"
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "If someone comes to the site on an old category or page url it redirects them to the new Subdomain one."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "This will set posts to only showed on single category/pages based on canonical and will redirect if accessed from another/root subdomain."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "This is best for SEO as will avoid duplicate content on subdomains!"
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "Activate this to have links to your normal pages, not Subdomain or Category Tied, remain on the subdomain being viewed."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "This could be bad for SEO as some search engines will see this as duplicate pages."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "The main page of Category and Author Subdomains will be treated by Wordpress as an Index rather than an archive."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "The difference between how Index and Archive are displayed is set by your theme."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "Configure filters to filter out content not belonging to the Subdomain you're on."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "Change Archives to just show archive of the Category or Author Subdomain you're on."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "Activate the Page filtering system. Use this to be able tie pages to categories."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "A list of main pages that are configured to use WP Subdomains features."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "A list of child pages that are configured to WP Subdomains features."
+msgstr ""
+
+#: plugin/admin.php:125
+msgid "Subdomain and Theme Settings will not function for child pages."
+msgstr ""

@@ -1,0 +1,10 @@
+.head-label, .head-calendar {
+	float: left;
+	padding:0px;
+}
+
+.head-calendar {
+	padding:0px;
+	padding-left:10px;
+	padding-top:12px;
+}
